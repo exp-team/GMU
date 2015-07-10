@@ -2,6 +2,7 @@
 + 当前版本（2.1.0）基于zepto 1.0
 + 2.0.3及以下版本（支持zepto 1.0rc1），请移步至老的github地址 https://github.com/campaign/gmu
 
+
 ##Build State [![Build Status](https://travis-ci.org/fex-team/GMU.svg?branch=master)](https://travis-ci.org/fex-team/GMU)
 
 ##GMU##
